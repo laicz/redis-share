@@ -1,4 +1,4 @@
-package com.zhou.current;
+package com.zhou.concurrency;
 
 import org.junit.Test;
 
